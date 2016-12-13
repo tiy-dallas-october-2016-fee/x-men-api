@@ -18,7 +18,7 @@ app.get('/api/x-men', function(req, res) {
         character: 'Cyclops',
         realName: 'Scott Summers',
         powers: ['concusive force beam'],
-        imageUrl: 'cyclops',
+        imageUrl: 'cyclops.jpg',
         description: "Xavier's first recruit and often the group's field leader. Former headmaster of the Xavier Institute, the former leader of the original X-Factor, and the current leader of an offshoot X-Men team. He also formerly led the X-Men's X-Force squad. Ex-husband of Madelyne Pryor (clone of Jean Grey) and the widower of Jean Grey."
       },
       {
